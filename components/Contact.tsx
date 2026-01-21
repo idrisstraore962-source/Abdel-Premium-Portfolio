@@ -46,7 +46,7 @@ const Contact: React.FC = () => {
 
             <div className="pt-10 flex space-x-6">
               {[
-                { icon: <Linkedin />, label: 'LinkedIn', href: 'www.linkedin.com/in/abdel-traore-developer-gmao-support' },
+                { icon: <Linkedin />, label: 'LinkedIn', href: 'https://www.linkedin.com/in/abdel-traore-developer-gmao-support' },
                 { icon: <Dribbble />, label: 'Dribbble', href: '#' },
                 { icon: <Globe />, label: 'Behance', href: '#' },
               ].map((social) => (
